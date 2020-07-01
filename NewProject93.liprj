@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="Project/Targets/ScreenExcluded.fltar" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="c920b978-0b86-4bb8-a0e1-83d0ff5ac73c">
+    <ProjectFile Source="Target/Conditions.flprj" Target="Target/Conditions.flprj" />
+</LingoProject>
